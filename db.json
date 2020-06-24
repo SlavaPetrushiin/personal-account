@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "test@test.ru",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "email": "luba@eamil.ru",
+      "password": "$2a$10$3jpbt.3x/4EZtCfVWnNZGebjp5NfIjiZ546BzAcxZGsvOec3tZRTa",
+      "id": 2
+    },
+    {
+      "email": "Slava91Petrushin@yandex.ru",
+      "password": "$2a$10$N0aVX.XUL9N13gf8V0Q.1ubgp8MP8RhqUOitJl.f/BkIdBbJYMtEW",
+      "id": 3
+    },
+    {
+      "email": "free@samuraijs.com",
+      "password": "$2a$10$7h6OXk.ctMiaSZBBeoVAee.bqknLv.7wgMo3/7J5vd9n6zTHWvP4S",
+      "id": 4
+    }
+  ]
+}
